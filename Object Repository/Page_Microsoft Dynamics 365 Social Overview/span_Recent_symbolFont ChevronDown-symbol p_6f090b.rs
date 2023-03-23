@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Recent_symbolFont ChevronDown-symbol p_6f090b</name>
+   <tag></tag>
+   <elementGuidId>183db058-08f9-4fb1-9e0a-b61331723f31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sitemap-entity-Recent_1A318AE1-712D-4D32-9E91-E936327E3256']/div/div[2]/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e03e6aa-fc42-4a6d-bd93-8226832520e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>e82c0d23-058d-49bb-97ed-81914a0f77c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Recent items</value>
+      <webElementGuid>0b717117-0675-4b7b-a614-e205eff0823c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>symbolFont ChevronDown-symbol pa-de pa-dd pa-db </value>
+      <webElementGuid>cba83783-4c77-4474-bbd4-774772badbfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sitemap-entity-Recent_1A318AE1-712D-4D32-9E91-E936327E3256&quot;)/div[@class=&quot;pa-a pa-bg pa-eb pa-ec pa-dw pa-x pa-ed pa-ee pa-ef pa-eg pa-eh pa-ei pa-ej pa-ek flexbox&quot;]/div[@class=&quot;pa-ak pa-fc pa-v pa-fe pa-ab flexbox&quot;]/div[@class=&quot;pa-ch pa-aq pa-p pa-cg pa-em subAction flexbox&quot;]/span[@class=&quot;pa-ff&quot;]/span[@class=&quot;symbolFont ChevronDown-symbol pa-de pa-dd pa-db&quot;]</value>
+      <webElementGuid>da7c51cb-d8c1-4749-a8ca-45fb26844bbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sitemap-entity-Recent_1A318AE1-712D-4D32-9E91-E936327E3256']/div/div[2]/div/span/span</value>
+      <webElementGuid>f3880f51-5452-4834-bff4-a771053dc93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span</value>
+      <webElementGuid>33fd0c8e-2a8b-40e3-9594-947e34412363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Recent items']</value>
+      <webElementGuid>6bd4def6-7ad3-4d9b-935b-d952449265e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

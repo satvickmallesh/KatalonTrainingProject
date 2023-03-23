@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign out_ms-Icon--WaffleOffice365</name>
+   <tag></tag>
+   <elementGuidId>228b6e05-9351-4957-a510-3a891c19e653</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.o365cs-base > span.ms-Icon--WaffleOffice365</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='appLauncherTop']/div/div/button/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1127f633-11ae-462d-a004-7223b0f1074c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Icon--WaffleOffice365</value>
+      <webElementGuid>52072115-6708-4ddd-9a4d-033aebbaa87d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>d74b0717-1f9c-4dd5-b86c-129a47460164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appLauncherTop&quot;)/div[1]/div[@class=&quot;_3awV-9lqOeD8DBQV6_X0vR&quot;]/button[@class=&quot;_2arXdyHOnS7nfCsUeDjGSN o365sx-neutral-dark-font o365sx-neutral-lighter-hover-background toolTip&quot;]/div[@class=&quot;o365cs-base&quot;]/span[@class=&quot;ms-Icon--WaffleOffice365&quot;]</value>
+      <webElementGuid>d04ef92b-0109-4aa2-a4e7-2c7ff12a10c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appLauncherTop']/div/div/button/div/span</value>
+      <webElementGuid>6b7dc767-81f9-4304-9de0-2075cd0d1376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/div/span</value>
+      <webElementGuid>23f4624c-44a0-4713-8389-5890f820a107</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

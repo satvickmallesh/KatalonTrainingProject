@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save</name>
+   <tag></tag>
+   <elementGuidId>2e4266d1-77ae-477e-93a7-22c5fd6e4b3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='contact|NoRelationship|Form|Mscrm.SavePrimary01-button']/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2d9d7792-f73e-49d2-bef9-83956bb1652b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pa-fi pa-dw pa-ip pa-av pa-e pa-ax pa-iq pa-fd </value>
+      <webElementGuid>5d1330c7-903d-4064-a0a7-2aeff154e207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>1c604737-6821-428c-b8aa-4f5f211d5e3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contact|NoRelationship|Form|Mscrm.SavePrimary01-button&quot;)/span[@class=&quot;pa-cz pa-bg pa-a pa-da&quot;]/span[@class=&quot;pa-fi pa-dw pa-ip pa-av pa-e pa-ax pa-iq pa-fd&quot;]</value>
+      <webElementGuid>b47bac1c-3e3f-4b5d-a344-a37d8c30c6e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='contact|NoRelationship|Form|Mscrm.SavePrimary01-button']/span/span[2]</value>
+      <webElementGuid>ce03aae7-ebb2-40b7-98c9-c8189994c045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App'])[1]/following::span[8]</value>
+      <webElementGuid>dfeb7455-3cd5-4c02-90c5-5fbc939c5b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/following::span[9]</value>
+      <webElementGuid>32354bf5-857c-4b9f-bf12-246c4f0947eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save this Contact.'])[1]/preceding::span[1]</value>
+      <webElementGuid>6991676f-61f8-46d6-9323-33c41f66d06b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Close'])[1]/preceding::span[3]</value>
+      <webElementGuid>c2fd741d-5667-48e5-891c-ffcce582cd2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>80102464-51cf-4e41-8dd6-8703d0822b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]</value>
+      <webElementGuid>c828e73c-cf1d-4c82-aa5f-9a6e3d9a5441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>fdc19466-6e24-4fed-819c-40464bf405e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Instance Methods</name>
+   <tag></tag>
+   <elementGuidId>492b8a76-d06e-423a-878c-81b2bad5e954</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='t2']/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29cc6ac2-17f7-494c-890f-f4606ec0820e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:show(2);</value>
+      <webElementGuid>6a0a1943-9cbd-4121-b336-0d3ee8926744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Instance Methods</value>
+      <webElementGuid>31ba97f8-f14e-40a6-81d4-c5869fb10bdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t2&quot;)/span[1]/a[1]</value>
+      <webElementGuid>84bfc741-43e1-4b32-9ea7-54b9da8f6c3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Capabilities/iframe_classFrame</value>
+      <webElementGuid>1fa5c3e5-3bb3-4ea9-81f4-8da0393db74f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='t2']/span/a</value>
+      <webElementGuid>4d1eae09-4f6a-4e87-814a-6b1e0d277d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Instance Methods')]</value>
+      <webElementGuid>d1b39f07-e861-49a7-ab4d-0500dee469cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Methods'])[1]/following::a[1]</value>
+      <webElementGuid>adae1669-32f7-4b76-a742-b7a921c1eef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Method Summary'])[1]/following::a[1]</value>
+      <webElementGuid>3ac0f5e5-9a8e-4d0b-8507-ed70e0bc2ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abstract Methods'])[1]/preceding::a[1]</value>
+      <webElementGuid>c9d31170-09c4-4109-af39-7b8499dc2512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Methods'])[1]/preceding::a[2]</value>
+      <webElementGuid>d8d268fc-5c0a-495d-b92f-8613a1161ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Instance Methods']/parent::*</value>
+      <webElementGuid>37bfeddd-08de-46cb-a7fa-ad6fe628cd66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:show(2);')]</value>
+      <webElementGuid>a29c13e9-346b-40f1-b443-93523c5c03b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>a488dac9-06df-48fa-81f7-761de296bdbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:show(2);' and (text() = 'Instance Methods' or . = 'Instance Methods')]</value>
+      <webElementGuid>a455a937-83b8-4ac8-9cf5-7786a02b33f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

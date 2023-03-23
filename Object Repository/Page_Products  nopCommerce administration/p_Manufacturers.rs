@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Manufacturers</name>
+   <tag></tag>
+   <elementGuidId>29461ffd-5dde-42db-96ce-c8337fd57ba2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear cache'])[1]/following::p[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>273760eb-fa4d-4a50-bb11-6cc63678fa7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Manufacturers</value>
+      <webElementGuid>7cabd041-813a-4c0e-aa01-77b850cefe7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit111&quot;]/body[@class=&quot;sidebar-mini layout-fixed control-sidebar-slide-open&quot;]/div[@class=&quot;wrapper&quot;]/aside[@class=&quot;main-sidebar sidebar-dark-primary elevation-4 sidebar-focused&quot;]/div[@class=&quot;sidebar os-host os-theme-light os-host-overflow os-host-overflow-y os-host-resize-disabled os-host-scrollbar-horizontal-hidden os-host-transition&quot;]/div[@class=&quot;os-padding&quot;]/div[@class=&quot;os-viewport os-viewport-native-scrollbars-invisible&quot;]/div[@class=&quot;os-content&quot;]/nav[@class=&quot;mt-2&quot;]/ul[@class=&quot;nav nav-pills nav-sidebar flex-column nav-legacy&quot;]/li[@class=&quot;nav-item has-treeview menu-open&quot;]/ul[@class=&quot;nav nav-treeview&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/p[1]</value>
+      <webElementGuid>a5a36a32-a4e3-4d4a-a6c0-5a5c7515d87b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear cache'])[1]/following::p[5]</value>
+      <webElementGuid>6fe61025-7fab-4fb8-a0b7-2e80cafec861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[5]</value>
+      <webElementGuid>7914d12b-d3b2-4bed-a6d0-b32c4f20bbd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[2]/preceding::p[103]</value>
+      <webElementGuid>fd2775d6-8b90-4459-a4ff-f6e79a684167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manufacturers']/parent::*</value>
+      <webElementGuid>184a693a-d3e0-4b3c-bbfb-eb617b51fb91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[3]/a/p</value>
+      <webElementGuid>dadd5770-77e4-466b-9183-4c4ae86e8d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Manufacturers' or . = ' Manufacturers')]</value>
+      <webElementGuid>d4ca586f-ff12-466e-9db2-e8dac4a28c58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

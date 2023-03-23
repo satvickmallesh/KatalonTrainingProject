@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3700716d-ba11-4043-aae4-8fcbff29cf05</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8d389712-9d31-4d2b-a24f-19d407326ad7</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>8d389712-9d31-4d2b-a24f-19d407326ad7</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>c263aae1-edfc-476c-adf3-884663f210ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>8d389712-9d31-4d2b-a24f-19d407326ad7</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>cb82dc85-dd1d-4ec3-b7ab-ea6f1fb30afe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin@yourstore.com'</defaultValue>
+      <description></description>
+      <id>c263aae1-edfc-476c-adf3-884663f210ab</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'RAIVpflpDOg='</defaultValue>
+      <description></description>
+      <id>cb82dc85-dd1d-4ec3-b7ab-ea6f1fb30afe</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

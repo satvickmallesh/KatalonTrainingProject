@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Skip to main content_ms-Icon--WaffleOf_363005</name>
+   <tag></tag>
+   <elementGuidId>601d3a01-7fbb-483a-a7a5-cb95e4aa12c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ms-Icon--WaffleOffice365.ms-icon-font-size-16</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='O365_MainLink_NavMenu']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a8642f5-9589-4369-9331-d699eac2a6bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Icon--WaffleOffice365 ms-icon-font-size-16</value>
+      <webElementGuid>f7faf5ec-5237-4bef-b616-c9be7f68c919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>320c4d60-647b-44ec-9c1a-afa205af61b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;O365_MainLink_NavMenu&quot;)/span[@class=&quot;ms-Icon--WaffleOffice365 ms-icon-font-size-16&quot;]</value>
+      <webElementGuid>a0633abe-fd9e-4103-a9af-e02530aa5fa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='O365_MainLink_NavMenu']/span</value>
+      <webElementGuid>eb88e079-8458-48a0-beb2-e6fdc9dd98df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>4fed9875-0a29-477a-b72e-0f6460b36c3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
